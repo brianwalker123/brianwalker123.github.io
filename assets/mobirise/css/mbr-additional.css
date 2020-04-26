@@ -620,8 +620,6 @@ section.lazy-placeholder:after {
   opacity: 0.3;
 }
 .cid-rXeSOTPkYk {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/newcover2-1920x1080.png");
 }
 .cid-rXeSOTPkYk .mbr-figure {
@@ -792,7 +790,7 @@ section.lazy-placeholder:after {
   border-radius: 3px;
 }
 .cid-rX3t7vrQrp .google-map {
-  height: 33rem;
+  height: 15rem;
   position: relative;
 }
 .cid-rX3t7vrQrp .google-map iframe {
